@@ -1,6 +1,6 @@
 # Family Awesome
 
-✨ 一个精心 curated 的列表，收录了我们群（或者你的群体名称，例如：XX技术交流群，代码人生同盟）成员们 **自己开发** 的实用工具项目，以及大家 **强烈推荐** 的高效率工具！此外，特别整理了知名开发者 **Antfu** 的一些优秀开源项目供学习参考。
+✨ 一个精心 curated 的列表，收录了我们群（或者托尼带水）成员们 **自己开发** 的实用工具项目，以及大家 **强烈推荐** 的高效率工具！此外，特别整理了知名开发者 **Antfu** 的一些优秀开源项目供学习参考。
 
 ## 👋 欢迎！
 
@@ -15,7 +15,7 @@
 
 * [🧑‍💻 Antfu 开发的项目](#-antfu-开发的项目)
 * [👨‍💻 群友们开发的项目](#-群友们开发的项目)
-* [🛠️ 群友们推荐的项目/工具](#-群友们推荐的项目工具)
+* [🛠️ 群友们推荐的项目](#-群友们推荐的项目)
 * [✨ 如何贡献](#-如何贡献)
 * [📜 许可证](#-许可证)
 
@@ -43,9 +43,10 @@
 * **[notes](https://github.com/Hacker-C/notes)** - 技术学习知识库。由[@Hacker-C](https://github.com/Hacker-C) 开发。
 * **[nuxt-blog](https://github.com/Fanvvv/nuxt-blog)** - nuxt-blog案例。由[@Fanvvv](https://github.com/Fanvvv) 开发。
 * **[vite-plugin-auto-import-styles](https://github.com/Asaki-M/vite-plugin-auto-import-styles)** - 自动引入css/sass/less。由[@Asaki-M](https://github.com/Asaki-M) 开发。
+* **[fantastic-mobile](https://github.com/fantastic-mobile/basic)** - 一个基于Vue3的UI组件库。由[@hooray](https://github.com/hooray) 开发。
 * ...
 
-## 🛠️ 群友们推荐的项目/工具
+## 🛠️ 群友们推荐的项目
 
 （这里列出群友们推荐的第三方工具、软件、网站等。请按照一定的顺序。）
 
