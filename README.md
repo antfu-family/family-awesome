@@ -21,37 +21,35 @@
 
 ## ❤️ Antfu 开发的项目
 
-（这里精选了一些由知名开源开发者 Antfu (Anthony Fu) 开发的优秀项目，供大家学习和参考。）
-
-* **[blog](https://antfu.me/)** - antfu博客
-* **[VueUse](https://github.com/vueuse/vueuse)** - 一个庞大的 Vue Composition API 实用函数集合，极大地提高了开发效率。涵盖了传感器、状态管理、动画、浏览器 API 等各种功能。
-* **[Vitest](https://github.com/vitest-dev/vitest)** - 一个由 Vite 驱动的下一代单元测试框架，快速且配置简单，与 Vite 生态完美集成。
-* **[UnoCSS](https://github.com/unocss/unocss)** - 即时按需原子化 CSS 引擎，比 Tailwind CSS 更灵活和可定制，性能出色。
-* **[Slidev](https://github.com/slidevjs/slidev)** - 一个基于 Web 的演示文稿工具，允许你使用 Markdown 轻松创建幻灯片。
-* **[Type Challenges](https://github.com/type-challenges/type-challenges)** - 一个旨在帮助你更好地理解 TypeScript 类型系统的挑战集合。通过解决这些挑战来提高你的类型体操能力。
+| 项目名 | 项目地址 | 开发者 | 项目简介 | 项目类型 | 备注 |
+|--------|----------|--------|----------|----------|------|
+| blog | [antfu.me](https://antfu.me/) | [@antfu](https://github.com/antfu) | antfu的个人博客 | 博客 | - |
+| VueUse | [vueuse/vueuse](https://github.com/vueuse/vueuse) | [@antfu](https://github.com/antfu) | 一个庞大的 Vue Composition API 实用函数集合，极大地提高了开发效率。涵盖了传感器、状态管理、动画、浏览器 API 等各种功能。 | 工具库 | Vue 生态 |
+| Vitest | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | [@antfu](https://github.com/antfu) | 一个由 Vite 驱动的下一代单元测试框架，快速且配置简单，与 Vite 生态完美集成。 | 测试框架 | Vite 生态 |
+| UnoCSS | [unocss/unocss](https://github.com/unocss/unocss) | [@antfu](https://github.com/antfu) | 即时按需原子化 CSS 引擎，比 Tailwind CSS 更灵活和可定制，性能出色。 | CSS 框架 | - |
+| Slidev | [slidevjs/slidev](https://github.com/slidevjs/slidev) | [@antfu](https://github.com/antfu) | 一个基于 Web 的演示文稿工具，允许你使用 Markdown 轻松创建幻灯片。 | 演示工具 | - |
+| Type Challenges | [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) | [@antfu](https://github.com/antfu) | 一个旨在帮助你更好地理解 TypeScript 类型系统的挑战集合。通过解决这些挑战来提高你的类型体操能力。 | 学习资源 | TypeScript |
 
 ## 👨‍💻 群友们开发的项目
 
-（这里列出群友们自己开发的项目。请按照一定的顺序，例如字母顺序或提交顺序。）
-
-* **[ant-design-pro-plus](https://github.com/yunsii/ant-design-pro-plus)** - ✨ 基于 ant-design-pro 做一些伟大的工作。由 [@yunsii](https://github.com/yunsii) 开发。
-* **[vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole)** - 一个简单的vite调试插件。由 [@vadxq](https://github.com/vadxq) 开发。
-* **[yun-sleep](https://github.com/seemrcola/yun-sleep)** - ✨ 赛博睡觉（纯AI无手搓）。由 [@seemrcola](https://github.com/seemrcola) 开发。
-* **[unisave](https://github.com/sunpm/unisave)** - 👋 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版，适配所有(app、mp、web)平台。由 [@sunpm](https://github.com/sunpm) 开发。
-* **[ninja](https://github.com/oevery/ninja)** - ✨ 一次对于 koa2 vue3 vite 的简单尝试。由 [@oevery](https://github.com/oevery) 开发。
-* **[my-mini-vue](https://github.com/myltx/my-mini-vue)** - ✨ 一次mini-vue实现尝试。由 [@myltx](https://github.com/myltx) 开发。
-* **[notes](https://github.com/Hacker-C/notes)** - 技术学习知识库。由[@Hacker-C](https://github.com/Hacker-C) 开发。
-* **[nuxt-blog](https://github.com/Fanvvv/nuxt-blog)** - nuxt-blog案例。由[@Fanvvv](https://github.com/Fanvvv) 开发。
-* **[vite-plugin-auto-import-styles](https://github.com/Asaki-M/vite-plugin-auto-import-styles)** - 自动引入css/sass/less。由[@Asaki-M](https://github.com/Asaki-M) 开发。
-* **[fantastic-mobile](https://github.com/fantastic-mobile/basic)** - 一个基于Vue3的UI组件库。由[@hooray](https://github.com/hooray) 开发。
-* ...
+| 项目名 | 项目地址 | 开发者 | 项目简介 | 项目类型 | 备注 |
+|--------|----------|--------|----------|----------|------|
+| ant-design-pro-plus | [yunsii/ant-design-pro-plus](https://github.com/yunsii/ant-design-pro-plus) | [@yunsii](https://github.com/yunsii) | 基于 ant-design-pro 做一些伟大的工作 | 前端框架 | React |
+| vite-plugin-vconsole | [vadxq/vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) | [@vadxq](https://github.com/vadxq) | 一个简单的vite调试插件 | Vite 插件 | 开发工具 |
+| yun-sleep | [seemrcola/yun-sleep](https://github.com/seemrcola/yun-sleep) | [@seemrcola](https://github.com/seemrcola) | 赛博睡觉（纯AI无手搓） | 工具 | AI |
+| unisave | [sunpm/unisave](https://github.com/sunpm/unisave) | [@sunpm](https://github.com/sunpm) | 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版 | 项目模板 | 跨平台 |
+| ninja | [oevery/ninja](https://github.com/oevery/ninja) | [@oevery](https://github.com/oevery) | 一次对于 koa2 vue3 vite 的简单尝试 | 全栈项目 | 学习项目 |
+| my-mini-vue | [myltx/my-mini-vue](https://github.com/myltx/my-mini-vue) | [@myltx](https://github.com/myltx) | 一次mini-vue实现尝试 | 学习项目 | Vue |
+| notes | [Hacker-C/notes](https://github.com/Hacker-C/notes) | [@Hacker-C](https://github.com/Hacker-C) | 技术学习知识库 | 文档 | - |
+| nuxt-blog | [Fanvvv/nuxt-blog](https://github.com/Fanvvv/nuxt-blog) | [@Fanvvv](https://github.com/Fanvvv) | nuxt-blog案例 | 博客 | Nuxt |
+| vite-plugin-auto-import-styles | [Asaki-M/vite-plugin-auto-import-styles](https://github.com/Asaki-M/vite-plugin-auto-import-styles) | [@Asaki-M](https://github.com/Asaki-M) | 自动引入css/sass/less | Vite 插件 | 开发工具 |
+| fantastic-mobile | [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) | [@hooray](https://github.com/hooray) | 一个基于Vue3的UI组件库 | UI 组件库 | Vue3 |
 
 ## 🛠️ 群友们推荐的项目
 
-（这里列出群友们推荐的第三方工具、软件、网站等。请按照一定的顺序。）
-
-* **[VS Code](https://code.visualstudio.com/)** - 代码编辑器，插件生态丰富，非常强大，适合各种编程语言开发。由 [@vadxq](https://github.com/vadxq) 推荐。
-* ...
+| 项目名 | 项目地址 | 推荐者 | 项目简介 | 项目类型 | 备注 |
+|--------|----------|--------|----------|----------|------|
+| VS Code | [code.visualstudio.com](https://code.visualstudio.com/) | [@vadxq](https://github.com/vadxq) | 代码编辑器，插件生态丰富，非常强大，适合各种编程语言开发 | IDE | - |
 
 ## ✨ 如何贡献
 
